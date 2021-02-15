@@ -56,3 +56,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Use haml for view files instead of erb
 gem 'haml'
+gem 'haml-rails'
